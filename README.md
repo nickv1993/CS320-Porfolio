@@ -1,2 +1,1 @@
-# CS320-Porfolio
-CS 320 Journal Portfolio 
+To ensure that my code, program, or software is functional and secure, I prioritize writing clean, maintainable code and employing rigorous testing strategies. This includes implementing unit tests to validate individual components for correctness, integration tests to ensure components work together as expected, and security tests to identify vulnerabilities such as SQL injections or cross-site scripting. Code reviews also play a crucial role, allowing for the identification and mitigation of potential issues through peer insights. By adopting a proactive approach to both functionality and security, I can significantly reduce the risk of bugs and vulnerabilities in my software.
